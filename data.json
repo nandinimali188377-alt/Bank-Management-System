@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Nandini Mali",
+        "age": 20,
+        "email": "mn@12gmail.com",
+        "pin": 12345,
+        "accountNo.": "HL0#5D7",
+        "balance": 1000
+    },
+    {
+        "name": "varsha",
+        "age": 21,
+        "email": "varsha@gmail.com",
+        "pin": 1883,
+        "accountNo.": "70VN$j5",
+        "balance": 0
+    },
+    {
+        "account_no": "2043a5ab",
+        "name": "Nandini Mali",
+        "age": 20,
+        "email": "nandini@gmail.com",
+        "pin": "1234",
+        "balance": 0
+    },
+    {
+        "account_no": "041a4542",
+        "name": "lokesh mali",
+        "age": 19,
+        "email": "lm@gmail.com",
+        "pin": "2345",
+        "balance": 0
+    }
+]
